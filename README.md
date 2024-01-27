@@ -1,2 +1,2 @@
-# Chavanikita13-Coding-Raja-Technologies
+# Coding-Raja-Technologies
 Internship
