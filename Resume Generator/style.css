@@ -1,0 +1,110 @@
+*{
+    padding: 0;
+    margin:0;
+    color:rgb(255, 255, 255);
+    background-color: #282525;
+}
+.class-control{
+    width: 500px;
+    border:2px solid rgb(159, 152, 146);
+}
+#imgField{
+    width: 500px;
+    border:2px solid rgb(159, 152, 146);
+    color:rgb(255, 255, 255);
+    background-color: #282525;
+}
+/* #namefield{
+    width: 500px;
+    border:2px solid rgb(159, 152, 146);
+
+}
+#contactfield{
+    width: 500px;
+    border:2px solid rgb(159, 152, 146);
+
+}
+#addressfield{
+    width: 500px;
+    border:2px solid rgb(159, 152, 146);
+
+}
+#linkedinfield{
+    width: 500px;
+    border:2px solid rgb(159, 152, 146);
+
+}
+#Instafield{
+    width: 500px;
+    border:2px solid rgb(159, 152, 146);
+
+}
+#fbfield{
+    width: 500px;
+    border:2px solid rgb(159, 152, 146);
+}
+#emailfield{
+    width: 500px;
+    border:2px solid rgb(159, 152, 146);
+} */
+
+.form-group-objective{
+    width: 500px;
+    border:2px solid rgb(159, 152, 146);
+}
+.form-group-weField{
+    width: 500px;
+    border:2px solid rgb(159, 152, 146);
+}
+.form-group-aqField{
+    width: 500px;
+    border:2px solid rgb(159, 152, 146);
+}
+.form-group-skField{
+    width: 500px;
+    border:2px solid rgb(159, 152, 146);
+}
+.Button{
+    text-align: center;
+}
+
+/* CV template */
+#cv-template{
+    display: none;
+}
+
+.myimg{
+    border: 1px solid grey;
+    border-radius: 50%;
+    width:200px
+}
+.background{
+    background-color: #231e1e;
+    text-align: center;
+    padding: 5px;  
+    border: 15px solid  #0be6d3;
+    border-right: none; 
+}
+.bghalf{
+    background-color: #231e1e;
+    border: 15px solid  #e49958; 
+    border-left: none; 
+
+}
+.text-center{
+    font-weight: 900px;
+    margin-top: 10px;
+}
+.card{
+    border: 1px solid #282525;
+}
+.card-header{
+    background-color: #282525;
+    padding-left:15px;
+    margin-bottom: 0px;
+}
+.btn{
+    color:white;
+    border: 2px solid #635555;
+}
+
